@@ -1,6 +1,6 @@
 import Phaser, { Game } from 'phaser'
 
-let welcometext = 'Welcome! \n The goal of this game is to land as many flips \n as you can while avoiding death. \n While in mid-air, spin by holding SPACE. \n Land with your feet down, otherwise you will die! \n\n Click to start!'
+let welcometext = 'Welcome! \n The goal of this game is to land as many flips \n as you can while avoiding bombs. \n While in mid-air, spin by holding SPACE. \n Land with your feet down, otherwise you will die! \n\n Click to start!'
 
 class WelcomeScene extends Phaser.Scene {
 
